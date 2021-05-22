@@ -1,7 +1,7 @@
 ---
 layout: splash
 title: "Impressum"
-permalink: /docs/00-imp
+permalink: /videos/00-imp
 excerpt: "Impressum"
 last_modified_at: 2021-05-21
 redirect_from:
