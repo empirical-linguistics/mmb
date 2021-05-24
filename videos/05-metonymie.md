@@ -15,6 +15,6 @@ toc: false
 
 <a href="https://mediathek.hhu.de/watch/990bf179-e923-41f4-895e-0051241f8bec" class="btn btn--primary">Download (HHU Mediathek)</a> <a href="https://uni-duesseldorf.sciebo.de/s/QY93kXCULt5SwEv" class="btn btn--info">Präsentation (PDF)</a> <a href="https://uni-duesseldorf.sciebo.de/s/EgTYkLWdXzODM9r" class="btn btn--warning">Präsentation (PPTX)</a>
 
-<p><strong>Musik:</strong> Volatile Reaction by Kevin MacLeod (incompetech.com), licensed under <a href="https://creativecommons.org/licenses/by/3.0/" target="_blank">Creative Commons: By Attribution 3.0 License</a></p>
+<p><strong>Musik & Sounds:</strong> Volatile Reaction by Kevin MacLeod (incompetech.com), licensed under <a href="https://creativecommons.org/licenses/by/3.0/" target="_blank">Creative Commons: By Attribution 3.0 License</a>; kwahmah_02: <a href="https://freesound.org/people/kwahmah_02/sounds/269476/" target="_blank">Clean Record Scratch</a>. Licensed under <a href="https://creativecommons.org/licenses/by/3.0/" target="_blank">Creative Commons: By Attribution 3.0 License</a></p>
 
-<p><strong>Schnitt:</strong> Luca Müller</p>
+<p><strong>Schnitt & Lehrpreis-Teaser:</strong> Luca Müller</p>
