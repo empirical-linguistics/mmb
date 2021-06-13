@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: "05 Metonymie"
+title: "06 Metapher und Korpuslinguistik"
 permalink: /videos/06-korpus
 excerpt: "Metonymie"
 last_modified_at: 2021-06-04

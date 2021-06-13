@@ -9,7 +9,7 @@ redirect_from:
 toc: false
 ---
 
-### Video 06: Metapher und Korpuslinguistik
+### Video 07: Metapher und Psycholinguistik
 
 {% include video id="6w2133K4sh4" provider="youtube" %}
 
