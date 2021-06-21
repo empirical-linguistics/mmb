@@ -1,9 +1,9 @@
 ---
 layout: splash
-title: "08 Conceptual Blending"
-permalink: /videos/08_blending
+title: "07 Psycholinguistische Ansätze"
+permalink: /videos/08-blending
 excerpt: "Metonymie"
-last_modified_at: 2021-06-19
+last_modified_at: 2021-06-13
 redirect_from:
   - /theme-setup/
 toc: false
