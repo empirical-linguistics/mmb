@@ -9,7 +9,7 @@ redirect_from:
 toc: false
 ---
 
-### Video 08: Conceptual Blending
+### Video 09: Fazit
 
 {% include video id="ws9LozxAZ8Y" provider="youtube" %}
 
